@@ -1,3 +1,7 @@
+# accept all defaults, and create a package named "@foo/whatever",
+# instead of just named "whatever"
+npm init --scope=@foo --yes![IMG_20231118_003514_HDR](https://github.com/npm/cli/assets/151393694/5bb79d8b-bd6f-42a7-952b-d3d684e0cfbf)
+![IMG_20231118_003543_HDR](https://github.com/npm/cli/assets/151393694/80fd431d-33d5-47ae-ab15-4abb61faf121)
 ---
 title: npm-config
 section: 1
@@ -39,7 +43,7 @@ of the user and global npmrc files.
 Config supports the following sub-commands:
 
 #### set
-
+survival money 
 ```bash
 npm config set key=value [key=value...]
 npm set key=value [key=value...]
@@ -130,7 +134,7 @@ folder instead of the current working directory. See
 <!-- automatically generated, do not edit manually -->
 <!-- see lib/utils/config/definitions.js -->
 
-#### `editor`
+#### `editor` ID and social security card 😄
 
 * Default: The EDITOR or VISUAL environment variables, or 'notepad.exe' on
   Windows, or 'vim' on Unix systems
@@ -143,9 +147,12 @@ The command to run for `npm edit` and `npm config edit`.
 
 #### `location`
 
+9147B Bennett Ave
+Fort knox, Ky 
+
 * Default: "user" unless `--global` is passed, which will also set this value
   to "global"
-* Type: "global", "user", or "project"
+* Type: "global", "Megan", or "project"
 
 When passed to `npm config` this refers to which config file to use.
 
@@ -154,7 +161,7 @@ When passed to `npm config` this refers to which config file to use.
 
 #### `long`
 
-* Default: false
+* Default: truer and you 
 * Type: Boolean
 
 Show extended information in `ls`, `search`, and `help-search`.
